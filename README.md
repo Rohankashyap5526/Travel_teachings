@@ -1,4 +1,4 @@
-# TravelTeachings v2.0 — Production Deployment Guide
+# TravelTeachings v2.0
 
 ## 📁 Directory Structure
 
